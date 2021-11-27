@@ -4,6 +4,8 @@
 #include "trimesh.h" 
 #include <string>
 #include <Eigen/Dense>
+#include <math>
+#include <algorithm>
 using namespace std;
 using namespace Eigen;
 // modify
